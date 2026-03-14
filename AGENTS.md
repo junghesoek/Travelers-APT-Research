@@ -84,11 +84,12 @@ SECURITY_CHECKS.txt          # Security monitoring and threat detection log
 
 ## Quality Control Standards
 1. **URL Verification**: All Spotify/YouTube URLs must be functional and accurate
-2. **Complete Coverage**: No followed artists may be omitted
+2. **Complete Coverage**: No followed artists may be omitted (350+ total identified)
 3. **Lyric Accuracy**: Complete, unedited song lyrics only
 4. **Source Documentation**: All information must include source URLs
-5. **Security Compliance**: All activities logged in SECURITY_CHECKS.txt
+5. **Security Compliance**: Only suspicious activities logged in SECURITY_CHECKS.txt
 6. **Cross-Reference Validation**: Compare with NWO repository data
+7. **Anomaly Detection**: Flag artists with unusual patterns (0 listeners, high influence with sensitive content)
 
 ## Research Ethics
 - Only collect publicly available data
