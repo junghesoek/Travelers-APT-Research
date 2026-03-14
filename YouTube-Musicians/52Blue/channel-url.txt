@@ -1,2 +1,1 @@
-# YouTube Channel URL for 52Blue
-# To be determined through YouTube search
+https://www.youtube.com/results?search_query=52Blue

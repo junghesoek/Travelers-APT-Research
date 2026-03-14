@@ -1,2 +1,1 @@
-# YouTube Channel URL for BNZO
-# To be determined through YouTube search
+﻿https://www.youtube.com/results?search_query=BNZO
