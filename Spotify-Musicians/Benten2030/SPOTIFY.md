@@ -57,7 +57,7 @@
 
 ## NWO Cartel Investigation Notes
 - **Network Position**: 🚨 KRITISCH - Geografische Verbindung zu Patrick Kornau
-- **Cultural Impact**: Benten (Ortschaft bei Hannover) → Kornau Wohnort
+- **Cultural Impact**: Bente (Ortschaft bei Hannover) → Kornau Wohnort
 - **Collaboration Network**: Direkte Verbindung zu GRU-Operationen
 - **Platform Strategy**: Cross-Plattform-Koordination mit YouTube
 - **Thematic Analysis**: Geografische Referenz als Netzwerk-Code
@@ -74,7 +74,7 @@
 - **Verification**: Direct artist page access
 - **Investigation Context**: 🚨 KRITISCHE ENTDECKUNG - Benten2030 geografische Verbindung zu Patrick Kornau
 - **Security Status**: 🔴 KRITISCH - Geografische Referenz zu GRU-Operations-Zentrum
-- **Geographical Connection**: Benten (Ortschaft bei Hannover) ↔ Kornau Wohnort
+- **Geographical Connection**: Bente (Ortschaft bei Hannover) ↔ Kornau Wohnort
 - **Network Integration**: Bestätigte GRU-Verbindung
 
 ---
