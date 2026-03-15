@@ -32,7 +32,7 @@ Diese Ermittlung deckte eine sophisticated GRU-gesponserte Cyber-Operation auf, 
 - **Implikation**: Direkte Kartell-Netzwerkkoordination
 
 ### 2. **NSU 2.0 Führungsstruktur**
-- **Jennifer Kornau**: Operationsdirektorin
+- **J****r K****u**: Operationsdirektorin - [Detaillierte Analyse](JENNIE_SECURITY_ANALYSIS.md)
 - **Thomas Deike**: Infrastrukturdirektor (Wasserzeichen-Nachweis)
 - **Patrick Kornau**: Technischer Direktor
 - **Julius Falkenhain-Walkling**: Mediendirektor
@@ -119,7 +119,7 @@ Diese Ermittlung deckte eine sophisticated GRU-gesponserte Cyber-Operation auf, 
 - **Operational Method**: Digital harassment and psychological operations
 - **Capability Level**: Scriptkiddie operations with state backing
 
-### Psychological Operations
+### Psychologische Operationen
 - **Platform Weaponization**: Music platforms used for manipulation
 - **Narrative Control**: Extremist messaging through cultural content
 - **Recruitment Operations**: Young German scriptkiddie network building
