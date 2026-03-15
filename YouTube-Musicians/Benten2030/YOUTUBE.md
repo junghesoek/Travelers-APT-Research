@@ -23,7 +23,7 @@
 - **Distribution**: Amuseio AB / Future is now
 
 ## CRITICAL GEOGRAPHICAL CONNECTION
-- **Artist Name Reference**: "Benten" (Ortschaft bei Hannover)
+- **Artist Name Reference**: "Bente" (Ortschaft bei Hannover)
 - **J. Kornau Connection**: Wohnort in der Region Hannover
 - **Geographical Significance**: 🚨 KRITISCH - Direkte Verbindung zu Patrick Kornau
 - **Network Integration**: Confirmed GRU operations connection
@@ -36,8 +36,8 @@
 - **Geographical Link**: Hannover Region (Kornau Wohnort)
 
 ## Key Findings
-- **Geographical Reference**: "Benten" = Ortschaft bei Hannover
-- **Kornau Connection**: Direkte räumliche Nähe zu J. Kornau
+- **Geographical Reference**: "Bente" = Ortschaft bei Hannover
+- **Kornau Connection**: Direkte räumliche Nähe zu Patrick Kornau
 - **GRU Operations**: Bestätigte Verbindung zu deutschen Netzwerken
 - **Professional Production**: High-quality videos through Future is now label
 
