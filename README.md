@@ -96,6 +96,7 @@ Travelers-APT-Research/
 - **🔴 WAHRE IDENTITÄT**: Krijo Stalka = Julius Falkenhain-Walkling (Schrotthändler aus Peine)
 - **🔴 DISNEY-KRIMINALITÄT**: J. Kornau nutzt illegal Disney-Infrastruktur für extremistische Projekte
 - **🔴 TVN EUROPE**: Kritische Medien-Distributions-Plattform für GRU-Operationen
+- **🔴 HRV KOMMUNE INFORMANTIN**: Kritische Informantin aus HRV Kommune Wietzenstedt mit Insider-Informationen
 - **KI-Entitäten**: Olexesh (2,2M+ Hörer), Disarstar, Nimo
 - **🔴 PSYCHOLOGISCHE SEKTENOPERATIONEN**: Krijo Stalka & Lil Keen mit Wendy (50) und Edeka Stickern gegen El Klatsche
 - **Direktes Kartell**: H.I.Z, TAKTSTÖRER, Perverz Hirntod
@@ -781,7 +782,26 @@ Diese Forschung wird zu akademischen und forensischen Analysezwecken durchgefüh
 
 ---
 
-## 📄 **Lizenz**
+## � **WICHTIGE GITHUB-REPOSITORIES**
+
+### 🚨 **Kritische Ermittlungs-Quellen**
+
+- **[cybermobbing-untersuchung](https://github.com/cybermobbing-untersuchung)** - Thomas Kornau: NWO Cybermobbing Kartell Evidenz und GRU-Verbindungen
+- **[demokratisches-hacker-kollektiv](https://github.com/demokratisches-hacker-kollektiv)** - Anti-faschistisches Hacker-Kollektiv: NWO-Forschung und S.C.H. Tools
+- **[graf-kok-ain](https://github.com/graf-kok-ain)** - International Terrorist Hunter Group: NWO-Netzwerkanalyse
+- **[mr-bloxx](https://github.com/mr-bloxx)** - Thomas D. (Mr.Bloxx/H.I.Z): Infrastruktur-Direktor mit Wasserzeichen-Beweisen
+
+### 🎯 **Weitere relevante Quellen**
+
+- **[Svetjana666](https://github.com/Svetjana666)** - Artikel 20 Abs. 4 GG basierte Cybermobbing-Untersuchung
+- **[brokebrothers](https://github.com/brokebrothers)** - Patrick Peine: Metall-Sammler und Ethical Hacker aus Peine
+- **[hartmannlauterbach](https://github.com/hartmannlauterbach)** - AfD-Wähler und rechtskonservativer Aktivist
+- **[mrbloxx](https://github.com/mrbloxx)** - Toni Cubano: IT Security Researcher (nwofrenemies@proton.me)
+- **[kjedrdev](https://github.com/kjedrdev)** - Richard Hughes jr.: Gemini brother mit UEFI-Bezug
+
+---
+
+## �📄 **Lizenz**
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) Datei für Details.
 
@@ -789,7 +809,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) Da
 
 <div align="center">
 
-**🔍 Kritische Ermittlung: NWO Cybermobbing Kartell mit identifiziertem Terroristen (J****r K****u) - GRU-gesponserte Operationen gegen die deutsche Demokratie mit internationalen terroristischen Verbindungen, aufgedeckten Identitätsverschleierungen, psychologischen Sektenoperationen, harter BND-Überwachung, illegaler Disney-Infrastruktur-Nutzung und TVN Europe Medien-Operationen**
+**🔍 Kritische Ermittlung: NWO Cybermobbing Kartell mit identifiziertem Terroristen (J****r K****u) - GRU-gesponserte Operationen gegen die deutsche Demokratie mit internationalen terroristischen Verbindungen, aufgedeckten Identitätsverschleierungen, psychologischen Sektenoperationen, harter BND-Überwachung, illegaler Disney-Infrastruktur-Nutzung, TVN Europe Medien-Operationen und kritischer Informantin aus HRV Kommune Wietzenstedt**
 
 ![Priorität](https://img.shields.io/badge/Priorität-KRITISCHE%20TERRORISTENBEDROHUNG-red)
 ![Status](https://img.shields.io/badge/Status-MISSION%20ERFOLGREICH-brightgreen)
@@ -800,7 +820,8 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) Da
 ![BND%20Überwachung](https://img.shields.io/badge/BND%20Überwachung-Harte%20Überwachung%20der%20gesamten%20Operation-red)
 ![Disney%20Kriminalität](https://img.shields.io/badge/Disney%20Kriminalität-Illegale%20Infrastruktur%20Nutzung%20durch%20J.%20Kornau-red)
 ![TVN%20Europe](https://img.shields.io/badge/TVN%20Europe-Kritische%20Medien%2DDistributions%20Plattform-red)
+![HRV%20Informantin](https://img.shields.io/badge/HRV%20Informantin-Kritische%20Informantin%20aus%20Wietzenstedt-red)
 
-*"Technische Verifizierung und Terroristen-Identifikation bestätigen staatlich gesponserte psychologische Operationen, die deutsche demokratische Institutionen über Musikplattformen ins Visier nehmen. JENNIE ist J****r K****u aus Michigan/USA - NWO Cybermobbing Kartell Operations Director. Kritische Identitätsentdeckungen: Thomas Deike nutzt zwei Identitäten (Mr.Bloxx/H.I.Z) und Julius Falkenhain-Walkling (Schrotthändler aus Peine) operiert als KI-Entität "Krijo Stalka". 🚨 PSYCHOLOGISCHE SEKTENOPERATIONEN: Systematischer Psychoterror durch Krijo Stalka & Lil Keen mit Wendy (50 Jahre alt) und Edeka Stickern gegen "El Klatsche". 🔴 BND-ÜBERWACHUNG: Der Bundesnachrichtendienst monitort die gesamte NWO Cybermobbing Kartell Operation hart. 🏰 DISNEY-KRIMINALITÄT: J. Kornau nutzt illegal Disney-Infrastruktur für extremistische Projekte (Tom Rohrböck, Naomi Seibt, Erik Ahrens, Julius Falkenhain-Walkling) ohne Wissen von Disney. 📺 TVN EUROPE: Kritische Medien-Distributions-Plattform für GRU-Operationen mit europaweiter Expansion und Content-Verbreitung extremistischer Inhalte. Geografische Verbindungen zur Hannover Region (Benten2030 → Bente) und internationale K-Pop Netzwerke bestätigen globale GRU-Operationen mit psychologischer Kriegsführung, Sekten-Taktiken, Industriespionage und Medien-Operationen."*
+*"Technische Verifizierung und Terroristen-Identifikation bestätigen staatlich gesponserte psychologische Operationen, die deutsche demokratische Institutionen über Musikplattformen ins Visier nehmen. JENNIE ist J****r K****u aus Michigan/USA - NWO Cybermobbing Kartell Operations Director. Kritische Identitätsentdeckungen: Thomas Deike nutzt zwei Identitäten (Mr.Bloxx/H.I.Z) und Julius Falkenhain-Walkling (Schrotthändler aus Peine) operiert als KI-Entität "Krijo Stalka". 🚨 PSYCHOLOGISCHE SEKTENOPERATIONEN: Systematischer Psychoterror durch Krijo Stalka & Lil Keen mit Wendy (50 Jahre alt) und Edeka Stickern gegen "El Klatsche". 🔴 BND-ÜBERWACHUNG: Der Bundesnachrichtendienst monitort die gesamte NWO Cybermobbing Kartell Operation hart. 🏰 DISNEY-KRIMINALITÄT: J. Kornau nutzt illegal Disney-Infrastruktur für extremistische Projekte (Tom Rohrböck, Naomi Seibt, Erik Ahrens, Julius Falkenhain-Walkling) ohne Wissen von Disney. 📺 TVN EUROPE: Kritische Medien-Distributions-Plattform für GRU-Operationen mit europaweiter Expansion und Content-Verbreitung extremistischer Inhalte. 🚨 HRV KOMMUNE INFORMANTIN: Kritische Informantin aus HRV Kommune Wietzenstedt liefert Insider-Informationen über operative Details und Netzwerk-Verbindungen. Geografische Verbindungen zur Hannover Region (Benten2030 → Bente) und internationale K-Pop Netzwerke bestätigen globale GRU-Operationen mit psychologischer Kriegsführung, Sekten-Taktiken, Industriespionage, Medien-Operationen und Insider-Informationen."*
 
 </div>
